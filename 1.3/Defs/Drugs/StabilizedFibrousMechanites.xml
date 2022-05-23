@@ -2,13 +2,13 @@
 <Defs>
 	  <ThingDef ParentName="DrugPillBase">
     <defName>StabilizedFibrousMechanites</defName>
-    <label>stabilzed fibrous mechanites</label>
-    <description>Placeholder.</description>
+    <label>stabilized fibrous mechanites</label>
+    <description>Stabilized micro-dose of self replicating mechanites, giving \n to the user a safer but less powerful version of the well known \n Fibrous mechanites disease.\n \n It's specialized as such that the white-blood cells will recognize \n and accept the mechanites safely, after one dose they will begin \n to spread and thrive within the host. Originally designed as \n combat drugs, they quickly became too expensive to \n manufacture, now only a limited amount remains.</description>
     <graphicData>
-      <texPath>Things/Item/ProstheticIcons/ScavImplantsTierThree</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
+      <texPath>Things/Item/Drug/Stabilized_Fibrous</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
     </graphicData>
-    <stackLimit>1</stackLimit>
+    <stackLimit>25</stackLimit>
     <rotatable>false</rotatable>
     <statBases>
       <MarketValue>1700</MarketValue>
