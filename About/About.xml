@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
     <name>Stabilized Mechanites</name>
-    <author>SirVan</author>
+    <author>Sir Van and Ythern</author>
     <supportedVersions>
         <li>1.3</li>
     </supportedVersions>
@@ -11,8 +11,7 @@
         <li>Ludeon.RimWorld.Ideology</li>
     </loadAfter>
     <packageId>SirVan.StabilizedMechanites</packageId>
-    <description>Stabilized mechanites is a small mod adding 2 drugs which are only obtainable via traders or quest rewards, giving you a lesser permanent bonus like the luciferium based on the well known diseases fibrous & sensory mechanites.
-This is a feature that was intended to be part of a larger project, but that i decided to make as a standalone/light version.
-
-Art by Van, XML by Ythern</description>
+    <description>
+    Stabilized mechanites adds 2 drugs which are only obtainable via traders or quest rewards, giving you a lesser permanent bonus based on the well known diseases fibrous & sensory mechanites.\nThis is a feature that was intended for a bigger picture, but that i decided to make as a standalone/light version.\n\nArt and concept by Sir Van, code by Ythern.
+    </description>
 </ModMetaData>
