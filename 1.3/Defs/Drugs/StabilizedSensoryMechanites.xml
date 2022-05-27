@@ -11,7 +11,7 @@
     <stackLimit>25</stackLimit>
     <rotatable>false</rotatable>
     <statBases>
-      <MarketValue>2000</MarketValue>
+      <MarketValue>3500</MarketValue>
       <Mass>0.1</Mass>
     </statBases>
     <techLevel>Ultra</techLevel>
