@@ -3,7 +3,7 @@
 	  <ThingDef ParentName="DrugPillBase">
     <defName>StabilizedSensoryMechanites</defName>
     <label>stabilized sensory mechanites</label>
-    <description>Stabilized micro-dose of self replicating mechanites, giving \nto the user a safer but less powerful version of the well known \nSensory mechanites disease.\n \nIt's specialized as such that the white-blood cells will recognize \nand accept the mechanites safely, after one dose they will begin \nto spread and thrive within the host. Originally designed as \ncombat drugs, they quickly became too expensive to \nmanufacture, now only a limited amount remains.</description>
+    <description>Stabilized micro-dose of self replicating mechanites, giving to the user a safer but less powerful version of the well known Sensory mechanites disease.It's specialized as such that the white-blood cells will recognizeand accept the mechanites safely, after one dose they will begin to spread and thrive within the host. Originally designed as social drugs, they were blacklisted on too many systemsbecause of their side effects and became not worth producing, now only a limited amount remains.</description>
     <graphicData>
       <texPath>Things/Item/Drug/Stabilized_Sensory</texPath>
       <graphicClass>Graphic_StackCount</graphicClass>
