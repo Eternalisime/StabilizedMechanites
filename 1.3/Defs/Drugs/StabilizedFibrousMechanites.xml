@@ -18,6 +18,8 @@
     <minRewardCount>10</minRewardCount>
     <ingestible>
       <drugCategory>Medical</drugCategory>
+      <baseIngestTicks>80</baseIngestTicks>
+      <ingestSound>Ingest_Inject</ingestSound>
       <outcomeDoers>
         <li Class="IngestionOutcomeDoer_GiveHediff">
           <hediffDef>StabilizedFibrousMechanites</hediffDef>
