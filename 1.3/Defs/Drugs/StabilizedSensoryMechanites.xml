@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	  <ThingDef ParentName="DrugPillBase">
+	 <ThingDef ParentName="DrugPillBase">
     <defName>StabilizedSensoryMechanites</defName>
     <label>stabilized sensory mechanites</label>
     <description>Stabilized micro-dose of self replicating mechanites, giving to the user a safer but less powerful version of the well known Sensory mechanites disease.It's specialized as such that the white-blood cells will recognizeand accept the mechanites safely, after one dose they will begin to spread and thrive within the host. Originally designed as social drugs, they were blacklisted on too many systemsbecause of their side effects and became not worth producing, now only a limited amount remains.</description>
@@ -15,7 +15,7 @@
       <Mass>0.1</Mass>
     </statBases>
     <techLevel>Ultra</techLevel>
-    <minRewardCount>10</minRewardCount>
+    <minRewardCount>1</minRewardCount>
     <ingestible>
       <drugCategory>Medical</drugCategory>
       <baseIngestTicks>80</baseIngestTicks>
@@ -38,7 +38,7 @@
       <li>ExoticMisc</li>
     </tradeTags>
     <thingSetMakerTags><li>RewardStandardHighFreq</li></thingSetMakerTags>
-    <allowedArchonexusCount>50</allowedArchonexusCount>
+    <allowedArchonexusCount>10</allowedArchonexusCount>
   </ThingDef>
 
   <HediffDef>

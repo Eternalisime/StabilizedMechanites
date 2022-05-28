@@ -15,7 +15,7 @@
       <Mass>0.1</Mass>
     </statBases>
     <techLevel>Ultra</techLevel>
-    <minRewardCount>10</minRewardCount>
+    <minRewardCount>1</minRewardCount>
     <ingestible>
       <drugCategory>Medical</drugCategory>
       <baseIngestTicks>80</baseIngestTicks>
@@ -38,7 +38,7 @@
       <li>ExoticMisc</li>
     </tradeTags>
     <thingSetMakerTags><li>RewardStandardHighFreq</li></thingSetMakerTags>
-    <allowedArchonexusCount>50</allowedArchonexusCount>
+    <allowedArchonexusCount>10</allowedArchonexusCount>
   </ThingDef>
 
   <HediffDef>
